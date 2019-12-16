@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "95919062899",
+    "firebase_url": "https://abir-58fa6.firebaseio.com",
+    "project_id": "abir-58fa6",
+    "storage_bucket": "abir-58fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95919062899:android:bafc7569d38eddbed78f06",
+        "android_client_info": {
+          "package_name": "com.example.abir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95919062899-gjipmlrsbc1m72gsm8rlk7ofk042e022.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abir",
+            "certificate_hash": "26543811effcc6862fe77ca3a390c2097fb07db6"
+          }
+        },
+        {
+          "client_id": "95919062899-v0to1030khnv19k6jue9im9rqikj4egh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTGQQl8TF0z0GpVN-LyXmJtGE4W1nooDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95919062899-v0to1030khnv19k6jue9im9rqikj4egh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
